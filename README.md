@@ -21,7 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Wes's  LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/westonh21
+[youtube]: http://www.youtube.com/@westonh21
 [linkedin]: https://linkedin.com/in/westonhenderson
 
 <!--
