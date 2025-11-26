@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/westonh2-cyber/Threat_Hunting_Projects/blob/main/Threat_Hunt_Scenario_TOR.md)**
+- **[Full Threat Hunt Write-Up: Support Tool Misdirection](https://github.com/westonh2-cyber/Threat_Hunting_Projects/blob/main/ThreatHunt_SupportTool_Misdirection.md)**
 
 <hr/>
 
