@@ -13,13 +13,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat_Hunting_Projects](https://github.com/westonh2-cyber/Threat_Hunting_Projects)** — my own threat-hunt investigations (the Azuki Logistics intrusion, in two parts, and Support Tool Misdirection), built on Microsoft Defender for Endpoint telemetry and KQL, with analyst commentary on each finding.
   - **[Full Threat Hunt Write-Up: Azuki Logistics Multi-Host Intrusion](https://github.com/westonh2-cyber/Threat_Hunting_Projects/blob/main/Discovered_pivoting_and_exfil_of_financial_and_secrets.md)**
-  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/westonh2-cyber/Threat_Hunting_Projects/blob/main/Threat_Hunt_Scenario_TOR.md)** — Josh Madakor's cyber-range example, kept for reference
   - **[Full Threat Hunt Write-Up: Support Tool Misdirection](https://github.com/westonh2-cyber/Threat_Hunting_Projects/blob/main/ThreatHunt_SupportTool_Misdirection.md)**
   - **[Full Threat Hunt Write-Up: Suspected Intrusion of a VM](https://github.com/westonh2-cyber/Threat_Hunting_Projects/blob/main/Suspected_intrustion_of_VM.md)**
 
 ## 🧪 Course Material
 
 - **[lognpacific-public](https://github.com/westonh2-cyber/lognpacific-public)** — a fork of Josh Madakor's cyber-range course repository (STIGs, scan reports, detection rules, automation scripts), kept for reference. The content is his.
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)** — Josh Madakor's cyber-range threat-hunt report, linked at his original.
 
 ## 🛠️ Scripts and Tools
 
